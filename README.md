@@ -1,1 +1,1 @@
-# my-project-_-slider
+# my-project-slider-on-JS
